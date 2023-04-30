@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwankhede&label=Profile%20views&color=0e75b6&style=flat" alt="yashwankhede" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashwankhede" alt="yashwankhede" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashwankhede&theme=matrix" alt="yashwankhede" /></a> </p>
 
 - 🌱 I’m currently learning **Singularity😂**
 
