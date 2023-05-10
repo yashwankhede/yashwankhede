@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="yash_banner.gif" alt="MasterHead">
+  <img src="yash_banner.gif" alt="MasterHead" style="width: 728px; height: 250px;">
 </p>
 <h1 align="center">Hi👋, I'm Yash</h1>
 <h3 align="center">A Self-taught bash scripter from Milky-Way Galaxy</h3>
