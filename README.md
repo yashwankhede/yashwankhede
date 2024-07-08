@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **Singularity😂**
 
-- 👨‍💻 All of my projects are available at [https://yashwankhede.github.io/My-Website/](https://yashwankhede.github.io/My-Website/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://personal.matrixploit.com/)
 
 - 💬 Ask me about **Bash & Linux**
 
 - 📫 How to reach me **yashwankhede003@gmail.com**
 
-- 📄 Know about my experiences [https://yashwankhede.github.io/My-Website/Yash%20Wankhede's%20Personal%20Portfolio_files/Yash%20CV.pdf](https://yashwankhede.github.io/My-Website/Yash%20Wankhede's%20Personal%20Portfolio_files/Yash%20CV.pdf)
+- 📄 Know about my experiences [Detailed portfolio](https://personal.matrixploit.com/portfolio.html)
 
 - ⚡ Fun fact **I think I live in matrix!!😂**
 
