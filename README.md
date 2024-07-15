@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [Detailed portfolio](https://personal.matrixploit.com/portfolio.html)
 
-- ⚡ Fun fact **I think I live in matrix!!😂**
+- ⚡ Fun fact **I think I live in Matrix, You wanna join..?😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
